@@ -23,3 +23,6 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# ides
+.idea
